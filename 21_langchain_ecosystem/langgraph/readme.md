@@ -2,13 +2,18 @@
 
 [Report: What Are AI Agents?](https://www.oreilly.com/library/view/what-are-ai/9781098159726/)
 
-[Watch: What is AI Agent? | Simple Explanation of an AI Agent](https://www.youtube.com/watch?v=2-JV8UxegWE)
+[Watch: What is AI Agent? | Simple Explanation of an AI Agent](https://www.youtube.com/watch?v=2-JV8UxegWE)Thi
 
 [What are AI Agents? By AWS](https://aws.amazon.com/what-is/ai-agents/)
 
 [What are AI agents? By IBM](https://www.ibm.com/think/topics/ai-agents)
 
 [Let’s Get Agentic: LangChain and LlamaIndex Talk AI Agents](https://thenewstack.io/lets-get-agentic-langchain-and-llamaindex-talk-ai-agents/)
+
+
+[What are AI agents? By Harrison Chase CEO LangChain](https://blog.langchain.dev/what-is-an-agent/)
+
+[Not an AI Agent, Agentic Systems, Autonomous AI Agents](https://x.com/AndrewYNg/status/1801295202788983136)
 
 AI agents are software programs that can autonomously perform tasks on behalf of users or other systems. They interact with their environment, collect data, and use that data to make decisions and take actions to achieve specific goals¹². These agents can be used in various applications, from customer service chatbots to complex data analysis tools.
 
@@ -133,3 +138,8 @@ Source: Conversation with Copilot, 9/17/2024
 (5) Mastering Agents: LangGraph Vs Autogen Vs Crew AI - Galileo. https://www.rungalileo.io/blog/mastering-agents-langgraph-vs-autogen-vs-crew.
 (6) An Overview of Multi Agent Frameworks: Autogen, CrewAI and LangGraph. https://sajalsharma.com/posts/overview-multi-agent-fameworks/.
 (7) langchain-ai/langgraph: Build resilient language agents as graphs. - GitHub. https://github.com/langchain-ai/langgraph.
+
+
+## Reading Material
+
+[GenAI Agents: Comprehensive Repository for Development and Implementation](https://github.com/NirDiamant/GenAI_Agents)
